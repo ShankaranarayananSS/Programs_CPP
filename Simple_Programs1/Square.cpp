@@ -5,7 +5,7 @@
 using namespace std;
 int main(){
   int side;
-  cout<<"Enter side of Square:";
+  cout<<"Enter Side of Square:";
   cin>>side;
   
   cout<<endl<<"Area of Square = "<<(side*side);
